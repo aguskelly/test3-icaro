@@ -1,0 +1,28 @@
+form{
+    background-color: lightgreen;
+    border-radius: 20px;
+    color: dimgray;
+    font-size: 15px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 300px;
+    text-align: center;
+}
+
+input, textarea{
+    border: 0px;
+    outline: none;
+    width: 200px;
+    
+}
+
+.campo{
+    border: mediumslateblue, 1px;
+    padding: 20px;
+}
+
+
+.campo:focus{
+    border-color: navy;
+
+}
